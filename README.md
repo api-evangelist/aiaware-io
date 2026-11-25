@@ -74,23 +74,9 @@ Everything profiled for AI Aware is published on APIs.io rather than in this rep
 
 ### APIs (1)
 
-- [Detection API](https://apis.io/apis/aiaware-io/detection-api/) — Check text, images, video and audio for AI generation via the AI Aware Detection API.
+- Detection API — Check text, images, video and audio for AI generation via the AI Aware Detection API.
 
-### Published properties
-
-Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### Security (1)
-
-Authentication, trust centre, and vulnerability disclosure.
-
-- [AI Aware Domain Security](https://apis.io/security/aiaware-io/aiaware-io-domain-security/)
-
-#### Plans and pricing (1)
-
-Published plans, tiers and prices.
-
-- [AI Aware Plans Pricing](https://apis.io/plans/aiaware-io/aiaware-io-plans-pricing/)
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
 
 ## Where to find this API
 
@@ -106,47 +92,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.8** — emerging · rubric 0.28.0 · scored 2026-11-22
-
-| Facet | Score |
-|---|---|
-| Discoverability | 66.1 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 48.5 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-| MCP Tool Quality | na |
-
-**Regulatory alignment 7.5** — AI & Biometrics
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiaware-io/](https://apis.io/providers/aiaware-io/).
+Not yet rated. See [apis.io/providers/aiaware-io/](https://apis.io/providers/aiaware-io/).
 
 ## How this profile is made
 
